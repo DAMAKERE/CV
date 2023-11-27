@@ -47,6 +47,8 @@ ul li{
     height: 100px;
     background-color: purple;
     margin: 0 auto;
+    align-text: center;
+    padding: 20px;
 }
 .btn {
   background: #3498db;
@@ -68,4 +70,9 @@ ul li{
 .btn:hover {
   background: #7c1c94;
   text-decoration: none;
+}
+ion-icon{
+    color: #fff;
+    height: 10px;
+    margin-right: 10px;
 }
