@@ -45,7 +45,7 @@ ul li{
 }
 .footer{
     height: 100px;
-    background-color: purple;
+    background-color: #86949b;
     text-align: center;
     align-items: center;
     padding: 20px;
@@ -73,6 +73,6 @@ ul li{
 }
 ion-icon{
     color: #fff;
-    height: 30px;
+    font-size: 30px;
     margin-right: 10px;
 }
