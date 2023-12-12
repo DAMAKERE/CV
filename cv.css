@@ -8,6 +8,16 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
+
+.header{
+    position: fix;
+    background-color: #3197ca;
+}
+
+h2{
+    color: #e08e10;
+}
+
 .container {
     margin: 5px;
 }
