@@ -16,8 +16,13 @@ body {
 
 h2{
     color: #e08e10;
+    margin: 20px 30px;
 }
 
+ul{
+    text-decoraction: none;
+    float: right;
+}
 .container {
     margin: 5px;
 }
