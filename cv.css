@@ -47,7 +47,8 @@ ul li{
     height: 100px;
     background-color: purple;
     margin: 0 auto;
-    align-text: center;
+    text-align: center;
+    
     padding: 20px;
 }
 .btn {
